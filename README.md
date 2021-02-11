@@ -1,6 +1,9 @@
 # data_science
 
 This is workbook of data science.
-Course: Python Basics of Data Science 
+Course: Python Basics of Data Science and Basics of Python
 
-with help of IBM
+So
+EDX : Contains Excercise files 
+Projects: Contains projects based on Data science.
+
